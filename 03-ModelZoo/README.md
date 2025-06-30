@@ -1,4 +1,4 @@
-# BEP-Net Model Zoo
+# 03-ModelZoo
 
 Lightweight depth-from-rotation networks for 360° saliency maps built on event-camera or grayscale inputs.
 
